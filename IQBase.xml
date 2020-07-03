@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<IQBase>
+	<Subscribes>
+		<Subscribe
+			Id="0"
+			Name="_"
+			IQ="100"
+			Influence="0"
+		/>
+		
+		<Subscribe
+			Id="127903743"
+			Name="ПЛЮМ резерв"
+			IQ="140"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="50177168"
+			Name="ПЛЮМ основа"
+			IQ="140"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="118643747"
+			Name="ПЛЮМ левый"
+			IQ="140"
+			Influence="5"
+		/>
+		
+		
+		
+		<Subscribe
+			Id="29369324"
+			Name="атеист"
+			IQ="60"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="67580761"
+			Name="Кб"
+			IQ="60"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="88245281"
+			Name="Шевцов"
+			IQ="60"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="39439883"
+			Name="Деградат"
+			IQ="60"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="119089998"
+			Name="Типичный многонационал"
+			IQ="140"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="71985639"
+			Name="Комми-агиточка"
+			IQ="60"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="17568841"
+			Name="Дождь"
+			IQ="60"
+			Influence="5"
+		/>
+		<Subscribe
+			Id="134122585"
+			Name="МоПК"
+			IQ="140"
+			Influence="5"
+		/>
+		
+		<Subscribe
+			Id="175061906"
+			Name="Мемы для русских"
+			IQ="140"
+			Influence="2.5"
+		/>
+		<Subscribe
+			Id="150550417"
+			Name="reddit"
+			IQ="60"
+			Influence="2.5"
+		/>
+		<Subscribe
+			Id="129440544"
+			Name="eternal classic"
+			IQ="140"
+			Influence="2.5"
+		/>
+		<Subscribe
+			Id="26546605"
+			Name="хуйпвейв"
+			IQ="100"
+			Influence="2.5"
+		/>
+		<Subscribe
+			Id="166774454"
+			Name="Панорама"
+			IQ="140"
+			Influence="2.5"
+		/>
+		<Subscribe
+			Id="92876084"
+			Name="Юморески"
+			IQ="140"
+			Influence="2.5"
+		/>
+		<Subscribe
+			Id="163058008"
+			Name="lmao"
+			IQ="100"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="66678575"
+			Name="Овсянка"
+			IQ="60"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="91050183"
+			Name="дай винчик"
+			IQ="60"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="57846937"
+			Name="мдк"
+			IQ="60"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="460389"
+			Name="борщ"
+			IQ="60"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="30602036"
+			Name="IGM"
+			IQ="60"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="71729358"
+			Name="позор"
+			IQ="60"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="45745333"
+			Name="форчан"
+			IQ="60"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="132980298"
+			Name="Деградация анимушника"
+			IQ="100"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="160557495"
+			Name="Патриоты Россия (рофл)"
+			IQ="100"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="135209264"
+			Name="Бот Максим"
+			IQ="60"
+			Influence="1"
+		/>
+		<Subscribe
+			Id="70226354"
+			Name="WOT Express"
+			IQ="60"
+			Influence="1"
+		/>
+	</Subscribes>
+</IQBase>
